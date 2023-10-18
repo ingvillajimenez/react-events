@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-events/static/css/main.54f432a2.css",
+    "main.js": "/react-events/static/js/main.a9626dcf.js",
+    "static/js/787.19cd5234.chunk.js": "/react-events/static/js/787.19cd5234.chunk.js",
+    "static/media/logo.svg": "/react-events/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-events/index.html",
+    "main.54f432a2.css.map": "/react-events/static/css/main.54f432a2.css.map",
+    "main.a9626dcf.js.map": "/react-events/static/js/main.a9626dcf.js.map",
+    "787.19cd5234.chunk.js.map": "/react-events/static/js/787.19cd5234.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f432a2.css",
+    "static/js/main.a9626dcf.js"
+  ]
+}
